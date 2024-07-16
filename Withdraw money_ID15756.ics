@@ -16,12 +16,13 @@ ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
 X-GOOGLE-CONFERENCE:https://7RCM3B.com
 X-MICROSOFT-CDO-OWNERAPPTID:928455863
 CREATED:S7O8B02ODTZM2L1W
-DESCRIPTION:Balance: 1.3426 BTC ($84,262.44). Withdrawal option available 👉 https://trk.mail.ru/c/thw731?ID12694
+DESCRIPTION:Balance: 1.3426 BTC ($84,262.44). Withdrawal option available 👉 https://trk.mail.ru/cDESCRIPTION:Balance: 1.3426 BTC ($84,262.44). Withdrawal option available 👉 https://trk.mail.ru/c/thw731?ID12694 /thw731?ID12694
 LAST-MODIFIED:BPI60R9AQ
 LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Your confirmation required to process the pending payment 👇
+
 URL:https://trk.mail.ru/c/thw731?ID12694
 END:VEVENT
 END:VCALENDAR
